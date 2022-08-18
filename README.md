@@ -1,2 +1,0 @@
-# sample-php
-sample-php
